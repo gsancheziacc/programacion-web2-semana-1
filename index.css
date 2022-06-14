@@ -1,0 +1,43 @@
+.demo-img{
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    max-width: 200px;
+    max-height: 200px;
+    border-bottom-width: 2px;
+    border-bottom-color: blue;
+    border-bottom-style: ridge;
+}
+
+h2 {
+    color: teal;
+}
+
+h3 {
+    color: blue
+}
+
+.coloredBold{
+    color: red;
+    font-weight: bold;
+}
+
+.colored{
+    color: orange;
+}
+
+.coloredSubrayed{
+    color: red;
+    text-decoration: underline;
+}
+
+.coloredItalic{
+    color: blue;
+    font-style: italic;
+}
+
+.colored2{
+    color: purple;
+}
